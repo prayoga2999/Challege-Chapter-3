@@ -34,10 +34,30 @@
 }
 .forinfo {
   color: white;
-  margin-top: 400px;
+  margin-top: 250px;
 }
 .section-3 {
   background-image: url(./assets/features.jpg);
   height: 120vh;
   background-size: 100% 100%;
+}
+.section-2 .forinfo {
+  text-align: end;
+  font-size: 36px;
+  font-weight: lighter;
+}
+.section-2 p {
+  color: white;
+  font-size: 60px;
+}
+
+.gambar-gunting {
+  padding-top: 300px;
+  padding-right: 90px;
+}
+.section-3 {
+  color: white;
+  text-align: start;
+  padding-left: 1000px;
+  padding-top: 250px;
 }
