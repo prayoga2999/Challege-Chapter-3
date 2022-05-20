@@ -1,0 +1,46 @@
+.navbar1 {
+  background-image: url(./assets/main-bg.jpg);
+  height: 120vh;
+  background-size: 100% 100%;
+}
+.home {
+  padding-top: 400px;
+}
+.home h1 {
+  font-size: 80px;
+  font-weight: bold;
+  color: rgb(245, 245, 245);
+}
+.home h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: rgb(245, 245, 245);
+}
+.btn-play {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #f0ad4e;
+  padding: 10px 50px;
+  border-radius: 2px;
+  border: none;
+}
+.page2 {
+  background-image: url(./assets/the-games-bg.jpg);
+  height: 120vh;
+  background-size: 100% 100%;
+}
+.page3 {
+  background-image: url(./assets/features.jpg);
+  height: 120vh;
+  background-size: 100% 100%;
+}
+.page3 h1 {
+  font-size: large;
+  color: azure;
+  /* padding-top: 400px; */
+}
+.page3 h2 {
+  color: azure;
+  padding-top: 10px;
+}
