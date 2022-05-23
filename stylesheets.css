@@ -30,7 +30,7 @@
 .section-2 {
   background-image: url(./assets/the-games-bg.jpg);
   height: 120vh;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 .forinfo {
   color: white;
@@ -40,7 +40,7 @@
 .section-3 {
   background-image: url(./assets/features.jpg);
   height: 120vh;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 .section-2 .forinfo {
   text-align: start;
@@ -61,4 +61,35 @@
   text-align: start;
   padding-left: 1000px;
   padding-top: 250px;
+}
+
+.huruf_besar {
+  color: #f0ad4e;
+  font-size: 30px;
+}
+
+.section-4 {
+  background-image: url(./assets/requirements.png);
+  height: 120vh;
+  background-size: cover;
+}
+.table {
+  color: white;
+}
+#sys {
+  padding-top: 500px;
+  color: white;
+  font-size: 80px;
+  
+}
+.section-3 h5 {
+  padding left: 20px;
+}
+.table .tabel {
+  font-weight: lighter;
+}
+.tulisan-kecil {
+  text-align: center;
+  color: white;
+  padding-top: 50px;
 }
