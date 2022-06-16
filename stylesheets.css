@@ -110,11 +110,6 @@
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.section-5 {
-  /* align-items: center;
-  align-content: center;
-  padding-left: 200px; */
-}
 
 .section-6 {
   background-image: url(./assets/newsletter.png);
@@ -122,6 +117,7 @@
   background-size: cover;
   padding-top: 200px;
 }
+
 .news-letter {
   padding-top: 200px;
 }
