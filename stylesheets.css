@@ -62,7 +62,9 @@
 
 .v1 {
   border-left: 6px solid rgb(255, 255, 255);
-  height: 100px;
+  height: 150px;
+  margin-left: 6px;
+  margin-top: -3px;
 }
 .future {
   color: white;
