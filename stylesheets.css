@@ -28,33 +28,39 @@
   border: none;
   align-items: center;
 }
-.section-2 {
+/* section 2 */
+.section2 {
   background-image: url(./assets/the-games-bg.jpg);
   height: 120vh;
   background-size: cover;
 }
-.container-section2 {
-  padding-top: 350px;
-}
-.kolom-tulisan {
-  float: left;
-  flex: 3;
-  order: 1;
-  padding-bottom: 400px;
+.section2 h1 {
+  font-size: 60px;
   color: white;
 }
-.gambar-gunting {
-  float: right;
-  flex: 6;
-  order: 2;
+.section2 h2 {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
 }
-
+.section2 .col-4 {
+  margin-top: 300px;
+}
+.section2 .col-8 {
+  margin-top: 300px;
+}
 .section-3 {
   background-image: url(./assets/features.jpg);
   height: 120vh;
   background-size: cover;
 }
-
+.section-3 h1 {
+  margin-top: 200px;
+  margin-bottom: 150px;
+}
+.section-3 .col-3 {
+  margin-left: 100px;
+}
 .section-3 h2 {
   color: #f0ad4e;
   font-weight: 200;
